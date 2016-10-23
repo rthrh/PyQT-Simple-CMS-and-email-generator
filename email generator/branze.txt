@@ -1,0 +1,10 @@
+Biuro rachunkowe,Biur rachunkowych
+Hotel,Hoteli
+Nieruchomoœci,Nieruchomoœci
+Catering,Cateringu
+Firma budowlana,Firm budowlanych
+Biuro nieruchomoœci,Biur nieruchomoœci
+Pizzeria,Pizzerii
+Kosmetyczka,Kosmetyczek
+Dentysta,Dentystów
+Restauracja,Restauracji

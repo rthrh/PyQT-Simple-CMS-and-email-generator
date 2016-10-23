@@ -1,0 +1,6 @@
+Szczecin,w Szczecinie
+Wroc³aw,we Wroc³awiu
+Poznañ,w Poznaniu
+Warszawa,w Warszawie
+Gdañsk,w Gdañsku
+Kraków,W Krakowie
